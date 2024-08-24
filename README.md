@@ -15,5 +15,5 @@ ConnectVerse is a Node.js application that allows users to sign up, sign in, and
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/ConnectVerse.git
+   git clone https://github.com/chandan0134/ConnectVerse.git
    cd BLOGGING APP
